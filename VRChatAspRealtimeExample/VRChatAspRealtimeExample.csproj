@@ -9,6 +9,8 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.23.0" />
+    <PackageReference Include="VRChat.API.Extensions.Hosting" Version="2.20.8-nightly.9-hotfix.1" />
+    <PackageReference Include="VRChat.API.Realtime" Version="1.0.0" />
   </ItemGroup>
 
 </Project>
